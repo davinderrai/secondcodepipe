@@ -7,6 +7,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           Welcome to Second CodePipeline New Version
+      This has been successfuly deployed on hostname host2.karracorp.com
         </header>
       </div>
     );
